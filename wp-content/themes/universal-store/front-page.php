@@ -39,7 +39,6 @@ if ( get_option( 'show_on_front' ) == 'page' ) { // Display static front page if
 			</div>
 		</div>
 	</div>
-	<h1>Marwan Mbarki</h1>
 	<!-- end content container -->
 	<?php get_footer(); ?>
 
