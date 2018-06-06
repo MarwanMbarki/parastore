@@ -12,6 +12,11 @@
 			<span class="sep"> | </span>
 			<?php printf( __( 'Theme: %1$s by %2$s', 'universal-store' ), '<a href="#!" >Parastore</a>', 'Marwan' ); ?>
 		</p>
+		<ul>
+			<li>
+				<a href="#1">Footer Logo</a>
+			</li>
+		</ul>
 	</div>
 </footer>
 <div id="back-top">
