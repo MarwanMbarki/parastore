@@ -14,7 +14,7 @@
 		</p>
 		<ul>
 			<li>
-				<a href="#1">Footer Logo</a>
+				<a href="#!">Footer Logo</a>
 			</li>
 		</ul>
 	</div>
